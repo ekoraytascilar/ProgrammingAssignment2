@@ -3,7 +3,6 @@
 ## environment in which they were created.
 
 ## A small difference from the original; my makeCacheMatrix function creates a random matrix from an integer 
-
 ## x with a dimention of (x,x) that includes x^2 elements drawn from a random distribution with a mean of x and 
 ## sd of approximately x/2. if you don't pass a non-zero positive integer as an argument it will throw an error.
 
